@@ -10,16 +10,16 @@
     {
       "name": "davinci-resolve",
       "source": {
-        "source": "github",
-        "repo": "fenixstarlord/cowork-davinciresolve"
+        "source": "url",
+        "url": "https://github.com/fenixstarlord/cowork-davinciresolve.git"
       },
       "description": "Control DaVinci Resolve from Cowork — execute API calls, create timelines, manage media, and render projects"
     },
     {
       "name": "frameio",
       "source": {
-        "source": "github",
-        "repo": "fenixstarlord/cowork-frameio"
+        "source": "url",
+        "url": "https://github.com/fenixstarlord/cowork-frameio.git"
       },
       "description": "Video review and collaboration with Frame.io — upload assets, manage reviews, collect feedback, and orchestrate approval workflows"
     }
