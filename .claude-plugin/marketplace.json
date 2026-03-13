@@ -1,0 +1,27 @@
+{
+  "name": "fenixstarlord-plugins",
+  "owner": {
+    "name": "fenixstarlord"
+  },
+  "metadata": {
+    "description": "Post-production plugins for Claude Cowork — DaVinci Resolve and Frame.io integrations"
+  },
+  "plugins": [
+    {
+      "name": "davinci-resolve",
+      "source": {
+        "source": "github",
+        "repo": "fenixstarlord/cowork-davinciresolve"
+      },
+      "description": "Control DaVinci Resolve from Cowork — execute API calls, create timelines, manage media, and render projects"
+    },
+    {
+      "name": "frameio",
+      "source": {
+        "source": "github",
+        "repo": "fenixstarlord/cowork-frameio"
+      },
+      "description": "Video review and collaboration with Frame.io — upload assets, manage reviews, collect feedback, and orchestrate approval workflows"
+    }
+  ]
+}
