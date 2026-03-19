@@ -22,6 +22,14 @@
         "url": "https://github.com/fenixstarlord/cowork-frameio.git"
       },
       "description": "Video review and collaboration with Frame.io — upload assets, manage reviews, collect feedback, and orchestrate approval workflows"
+    },
+    {
+      "name": "resolvemanual",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/fenixstarlord/cowork-resolvemanual.git"
+      },
+      "description": "DaVinci Resolve assistant — helps you figure out how to do anything in Resolve using structured knowledge from the official manual"
     }
   ]
 }
